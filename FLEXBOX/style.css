@@ -1,0 +1,98 @@
+/* p{
+    color: black;
+    background-color:violet;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    font-family: cursive;
+    text-transform:lowercase ;
+} */
+
+
+.container{
+    /* background-color: grey; */
+    /* display: flex; */
+    /* flex-direction: row-reverse; */
+    /* justify-content: center; */
+    display: grid;
+    /* grid-template-columns: 1; */
+    /* grid-template-rows: 4; */
+    grid-template-columns: auto auto auto auto;
+    margin: 20px;
+    padding: 20px;
+}
+
+.box1{
+    /* background-color: aqua; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.box2{
+    /* background-color: cadetblue; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+
+.box3{
+    /* background-color: blueviolet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+
+.box4{
+    /* background-color: violet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.box5{
+    /* background-color: violet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.box6{
+    /* background-color: violet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.box7{
+    /* background-color: violet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.box8{
+    /* background-color: violet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.box9{
+    /* background-color: violet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.box10{
+    /* background-color: violet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.box11{
+    /* background-color: violet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.box12{
+    /* background-color: violet; */
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
